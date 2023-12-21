@@ -11,4 +11,5 @@ public interface UserClientService {
 
     @GetMapping("/api/v1/user/{username}")
     UserResponseDTO getUserDTOByUserName(@PathVariable("username") String username);
+
 }
