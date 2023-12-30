@@ -21,10 +21,10 @@
     </parent>
 
     <groupId>com.cydeo</groupId>
-    <artifactId>ticketing-project-microservices</artifactId>
+    <artifactId>ticketing_project_microservices</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ticketing-project-microservices</name>
-    <description>ticketing-project-microservices</description>
+    <name>ticketing_project_microservices</name>
+    <description>ticketing_project_microservices</description>
 
     <properties>
         <java.version>11</java.version>
